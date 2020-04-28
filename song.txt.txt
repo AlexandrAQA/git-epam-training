@@ -1,3 +1,4 @@
+	the 1st song
 sword and spear
 wall of shields
 standing strong
@@ -13,8 +14,6 @@ Don't look back
 Oden's sons
 Attack!
 
-
-
 	the Second Song
 Up onto the overturned keel
 Clamber, with a heart of steel
@@ -24,10 +23,10 @@ With maidens, you have had your way
 Each of us must die someday!
 
 free translation into Russian
-
 Твой драккар на дне лежит,
 Сердце пламенем горит.
 И прохладны воды в море,
 Но душа не знает горя.
 День придёт, наступит час.
 Смерть ждёт каждого из нас!
+=2 songs 4 coupletes and 1 translation
